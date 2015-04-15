@@ -1,5 +1,5 @@
 # ExcelTrans
-*A simple program that put matrix to an array by vertical direction<br>
+* A simple program that put matrix to an array by vertical direction<br>
 Eg. <br>
 Input:<br>
 1 2 3<br>
@@ -15,6 +15,5 @@ Output:<br>
 3<br>
 6<br>
 9<br>
-The
-*The program will operate all the sheet with the same name in the new file.
-*Only support *.xlsx formate in current version.
+* The program will operate all the sheet with the same name in the new file.
+* Only support *.xlsx formate in current version.
